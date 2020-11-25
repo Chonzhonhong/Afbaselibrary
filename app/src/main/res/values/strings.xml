@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Mytest</string>
+
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+
+    <!-- Strings for the Settings Dialog. -->
+    <string name="settings_title">设置</string>
+    <string name="num_particles">粒子数:</string>
+    <string name="particle_size">粒径:</string>
+    <string name="num_att_points">最大景点数:</string>
+    <string name="bg_color">背景颜色:</string>
+    <string name="particles_colors">颗粒颜色:</string>
+    <string name="slow_particles_colors">慢颗粒:</string>
+    <string name="fast_particles_colors">快速粒子:</string>
+    <string name="hue_direction">色相方向:</string>
+    <string-array name="hue_directions">
+        <item>Clockwise</item>
+        <item>Counterclockwise</item>
+    </string-array>
+    <string name="force_coefficients">力系数:</string>
+    <string name="force01_attraction">景点:</string>
+    <string name="force01_drag">拖动:</string>
+    <string name="reset">重置</string>
+    <string name="settings_hint">
+        提示：单击右上角以显示“设置”图标.</string>
+
+    <string name="wallpaper_description">粒子流壁纸</string>
+    <string name="wallpaper_settings">以后可以在主应用程序中更改参数（点击右上角以显示设置图标）.
+    </string>
 </resources>
